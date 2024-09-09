@@ -1,7 +1,7 @@
 # Doro :3
 
 ## Demo
-https://xypher7.github.io/doro-js
+https://xypher7.github.io/Doro.js
 
 ## Usage
 Add the script:
